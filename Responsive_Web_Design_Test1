@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's upgrade Test1</title>
+</head>
+<style>
+    #C21 { width : 100px;
+          height : 100px;
+        }
+    .R1 {
+        background-color : darkblue;
+        color : green ;
+    }    
+    .R2 {
+
+        background-color : drgb(14, 139, 0);
+        color : rgb(44, 5, 84) ;
+
+    }
+
+</style>
+
+<body>
+    <table>
+        <tr>
+        <th class="R1" id="C11"> DP </th>
+        <th class="R1" id="C12"> NAME </th>
+        <th class="R1" id="C13"> EMAIL </th>
+        </tr>
+        <tr>    
+        <th class="R2"> <img id ="C21" src = "HSC Logo.png"> </th>
+        <th class="R2" id="C22"> DPD </th>
+        <th class="R2" id="C23"> whizzkid.dpd@gmail.com </th>
+        </tr>       
+    </table>
+    <p>D.PREM DHARSHAN, THE FOUNDER OF HIGHSCHOOL CODERS</p>
+</body>
+</html>
